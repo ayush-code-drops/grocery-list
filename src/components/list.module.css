@@ -1,0 +1,21 @@
+.listComp{
+    display: flex;
+   justify-content: space-between;
+    align-items: center;
+    background-color:lightblue;
+    
+   
+    width: 400px;
+    margin: auto;
+    padding: 10px;
+}
+
+.listComp button{
+    background-color: black;
+    color: white;
+    margin:0px 10px
+}
+
+.listdiv{
+    margin-top: 10px;
+}
